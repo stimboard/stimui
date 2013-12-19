@@ -61,26 +61,9 @@
 		// 
 		maxTime:21,
 		// 
-
 			
 		editable:false,
 		// 
-		disableDragging: true,
-		
-		events: [{
-			allDay:false,
-			editable:false,
-			startEditable:false,
-			durationEditable:false,
-			color:"#111111",
-			backgroundColor:"#FFFFFF",
-			borderColor:"#686868",
-			textColor:"#686868",
-			id:0,
-			title:"Td-e8-eservice à la Personne-Lamia Mamlouk \\n \\nPtuS215 -",
-			start: "2013-11-22T09:50:00Z",
-			end:"2013-11-22T11:50:00Z"
-		}]
-		// 
+		disableDragging: true
 	});
 });
